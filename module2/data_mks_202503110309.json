@@ -1,0 +1,48 @@
+{
+"data_mks": [
+{
+  "_id": ObjectId("67cf14257a72275ecd6e7b11"),
+  "timestamp": 1741624222,
+  "message": "success",
+  "iss_position": {
+    "latitude": "40.4519",
+    "longitude": "156.2169"
+  }
+},
+{
+  "_id": ObjectId("67cf15af7a72275ecd6e7b16"),
+  "timestamp": 1741624751,
+  "message": "success",
+  "iss_position": {
+    "latitude": "16.8292",
+    "longitude": "-177.4037"
+  }
+},
+{
+  "_id": ObjectId("67cf15e77a72275ecd6e7b18"),
+  "timestamp": 1741624805,
+  "message": "success",
+  "iss_position": {
+    "latitude": "14.1572",
+    "longitude": "-175.2960"
+  }
+},
+{
+  "_id": ObjectId("67cf15eb7a72275ecd6e7b1a"),
+  "timestamp": 1741624811,
+  "message": "success",
+  "iss_position": {
+    "latitude": "13.8836",
+    "longitude": "-175.0845"
+  }
+},
+{
+  "_id": ObjectId("67cf15fd7a72275ecd6e7b1c"),
+  "timestamp": 1741624829,
+  "message": "success",
+  "iss_position": {
+    "latitude": "12.9872",
+    "longitude": "-174.3965"
+  }
+}
+]}
